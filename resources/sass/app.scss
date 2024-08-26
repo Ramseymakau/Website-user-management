@@ -1,0 +1,18 @@
+// app.scss
+
+// Import any necessary Sass libraries or files
+@import 'variables'; // Import a variables file (e.g., _variables.scss)
+@import 'mixins'; // Import a mixins file (e.g., _mixins.scss)
+
+// Global styles
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+// Add your custom styles here
+.my-class {
+  color: #333;
+  font-size: 18px;
+}

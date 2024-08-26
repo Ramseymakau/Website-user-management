@@ -1,0 +1,58 @@
+html {
+    background-color: rgb(162, 207, 246);
+}
+
+header{
+    font-size: medium;
+}
+
+body {
+    width: 500px;
+    font-family: "Google Sans", roboto, "Noto Sans Myanmar UI", arial, sans-serif;
+    font-size: small;
+    height: 300px;
+    background-color: white;
+    border: none;
+    border-radius: 28px;
+    padding: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.my-3{
+    padding: 0px;
+
+
+}
+
+.form-control{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 5px;
+}
+.form-select{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+.reg{ 
+        padding: 10px 10px;
+        
+        margin: 50px;
+        margin-right: 0px;
+        margin-top: 50px;
+        border: 1px white;
+        border-radius: 5px;
+        background-color: #4CAF50;
+        color: #fff;
+        cursor: pointer;
+      }
+      
+.reg:hover {
+        background-color: #3e8e41;
+      }
